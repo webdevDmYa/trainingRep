@@ -1,3 +1,3 @@
 # Hello World!
-## i will be IT!
-### it will be best time!
+## IT will be IT!
+### It will be best time!
