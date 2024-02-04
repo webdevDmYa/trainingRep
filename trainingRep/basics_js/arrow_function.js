@@ -18,12 +18,13 @@
 // let saiHay = () => alert('sayHi');
 // saiHay();
 
-// let age = prompt('How old are you?', 35);
-// let welcome = (age == 35) ? () => alert('star man') : () => alert('young man');
-// welcome();
+/*let age = prompt('How old are you?', 35);
+ let welcome = (age == 35) ? () => alert('star man') : () => alert('young man');
+welcome();
 
-// let sum = (a,b) => {
-//    let result = (a/2)+(b*3);
-//    return result;
-// };
-// alert(sum(10,5));
+ let sum = (a,b) => {
+    let result = (a/2)+(b*3);
+    return result;
+ };
+ alert(sum(10,5));*/
+ 
