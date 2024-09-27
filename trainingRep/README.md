@@ -1,2 +1,1 @@
-# Hello World!
-## this repo for the training on JS
+# the branch for the training s JS
